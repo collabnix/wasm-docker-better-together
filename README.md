@@ -40,6 +40,7 @@ Source ~ https://docker.com
 ## 🏗️ Sample Apps
 
 - [Pong in Rust, Wasm and Docker - Online Multiplayer using Kafka Events](https://github.com/thilo-behnke/wasm-pong)
+- [Valist - Web3-native software distribution](https://github.com/valist-io/valist)
 - [Docker image with Emscripten to compile ASM.js and WebAssembly](https://github.com/trzecieu/emscripten-docker)
 - [Composed - Docker Compose GUI powered by WASM and React](https://github.com/mukkund1996/composed)
 - [Proof of concept of running WASM w/ Docker](https://github.com/thiskevinwang/docker-wasm)
@@ -52,6 +53,7 @@ Source ~ https://docker.com
 - [Crypter - An End-to-End Encrypted File and Message Transfer](https://github.com/Crypter-File-Transfer/Crypter)
 - [GitPod, Rust, Wasm and Docker Together](https://github.com/dtoebe/GitPod-Rust-Wasm-Docker)
 - [Blazor Wasm Hosted Docker](https://github.com/dotnetnoobie/BlazorWasmHostedDocker)
+- [Building the LDK Garbagesollected Bindings and WASM](https://github.com/synonymdev/ldk-garbagecollected-docker)
 
 # 🧑‍💻  Blogs
 
