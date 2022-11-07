@@ -17,7 +17,7 @@
 Source ~ https://docker.com
 
 
-# 🌐 Submit Your Sample App
+# 🐳 Submit Your Sample App
 
 [Raise a PR](https://github.com/collabnix/wasm-docker-better-together/pulls) and get your favorite sample app added to this list.
 
