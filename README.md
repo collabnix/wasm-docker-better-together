@@ -4,6 +4,7 @@
 # Tutorials
 
 - [Getting Started with Wasm on Docker Desktop](https://docs.docker.com/desktop/wasm/)
+- [Microservices + Rust + MySQL + Wasm + Docker](https://github.com/second-state/microservice-rust-mysql))
 
 # Blogs
 
