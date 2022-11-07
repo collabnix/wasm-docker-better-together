@@ -60,4 +60,4 @@ Docker Community sees Wasm as a complementary technology to Linux containers. Th
 
 # 💬 Support and Community
 
-Have a question about Docker + Wasm Integration? Visit our [Community Forum](https://forums.docker.com) and post your queries under our [new Docker+Wasm category](https://forums.docker.com/c/docker-wasm/63).
+Have a question about Docker + Wasm Integration? Visit  [Docker Community Forum](https://forums.docker.com) and post your queries under [new Docker+Wasm category](https://forums.docker.com/c/docker-wasm/63).
