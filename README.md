@@ -56,3 +56,8 @@ Docker Community sees Wasm as a complementary technology to Linux containers. Th
 - [Keynote: Wasm: A Revolution for Browsers, Containers, and the Cloud - Justin Cormack](https://www.youtube.com/watch?v=uf0Rboi0mYg)
 - [Docker and WASM - The powerful combo](https://www.youtube.com/watch?v=9JVV2qrp080&t=131s)
 - [Service Meshing with Docker Desktop & WebAssembly](https://www.youtube.com/watch?v=5BrbbKZOctw)
+
+
+# 💬 Support and Community
+
+Have a question about Docker + Wasm Integration? Visit our [Community Forum](https://forums.docker.com) and post your queries under our [new Docker+Wasm category](https://forums.docker.com/c/docker-wasm/63).
