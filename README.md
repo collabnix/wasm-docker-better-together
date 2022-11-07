@@ -1,3 +1,11 @@
+![stars](https://img.shields.io/github/stars/collabnix/wasm-docker-better-together)
+![forks](https://img.shields.io/github/forks/collabnix/wasm-docker-better-together)
+![Discord](https://img.shields.io/discord/1020180904129335379)
+![issues](https://img.shields.io/github/issues/collabnix/wasm-docker-better-together)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=collabnix.wasm-docker-better-together)
+![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
+
+
 # WebAssembly and Docker - Better Together
 
 ![image](https://user-images.githubusercontent.com/34368930/200236234-fcc71f84-a04d-4116-8cd6-9f03ae4f3973.png)
