@@ -8,6 +8,16 @@ Here is the curated list of Wasm and Docker working together:
 - [Getting Started with Wasm on Docker Desktop](https://docs.docker.com/desktop/wasm/)
 - [Microservices + Rust + MySQL + Wasm + Docker](https://github.com/second-state/microservice-rust-mysql)
 - [Create a database-backed Microservice in Rust and Run it in WasmEdge](https://www.youtube.com/watch?v=VSqMPFr7SEs)
+- [Running Wasm Workload using Docker](https://dev.to/docker/a-first-look-at-wasm-and-docker-5dg0)
+
+
+# Sample Apps
+
+- [Docker image with Emscripten to compile ASM.js and WebAssembly](https://github.com/trzecieu/emscripten-docker)
+- [Proof of concept of running WASM w/ Docker](https://github.com/thiskevinwang/docker-wasm)
+- [AssemblyScript boilerplate for Docker+Wasm](https://github.com/CreoOne/EdgeIntraComm)
+- [Learning to set up a docker container which runs WASM](https://github.com/admiral-akk/rust-wasm-docker)
+- [Dockerfile to build a wasm builder environment](https://github.com/leviyanx/wasm)
 
 # Blogs
 
