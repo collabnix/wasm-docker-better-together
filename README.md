@@ -1,4 +1,4 @@
-# A Curated List of WebAssembly and Docker
+# A Curated List of WebAssembly and Docker Resources, Tutorials and Blogs
 
 
 
