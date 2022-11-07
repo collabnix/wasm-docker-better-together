@@ -79,4 +79,6 @@ Source ~ https://docker.com
 
 # 💬 Support and Community
 
-Have a question about Docker + Wasm Integration? Visit  [Docker Community Forum](https://forums.docker.com) and post your queries under [new Docker+Wasm category](https://forums.docker.com/c/docker-wasm/63).
+Have a question about Docker + Wasm Integration? 
+
+Visit  [Docker Community Forum](https://forums.docker.com) and post your queries under [new Docker+Wasm category](https://forums.docker.com/c/docker-wasm/63).
