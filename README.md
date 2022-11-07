@@ -50,6 +50,7 @@ Source ~ https://docker.com
 - [Build, Share, and Run WebAssembly Apps Using Docker](https://www.docker.com/blog/build-share-run-webassembly-apps-docker/)
 - [Docker Hub and WebAssembly step 1](https://nigelpoulton.com/docker-hub-and-webassembly-step-1/)
 - [Experimenting with .NET 7, WASM, and WASI on Docker](https://laurentkempe.com/2022/10/31/experimenting-with-dotnet-7-wasm-and-wasi-on-docker/)
+- [Managing WebAssembly Applications Using Docker and k8s Tooling - Michael Yuan, Second State](https://www.youtube.com/watch?v=jiiuL3bsDhU)
 
 
 
