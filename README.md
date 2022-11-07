@@ -48,6 +48,8 @@ Source ~ https://docker.com
 
 - [Introducing the Docker+Wasm Technical Preview](https://www.docker.com/blog/docker-wasm-technical-preview/)
 - [Build, Share, and Run WebAssembly Apps Using Docker](https://www.docker.com/blog/build-share-run-webassembly-apps-docker/)
+- [Docker Hub and WebAssembly step 1](https://nigelpoulton.com/docker-hub-and-webassembly-step-1/)
+- [Experimenting with .NET 7, WASM, and WASI on Docker](https://laurentkempe.com/2022/10/31/experimenting-with-dotnet-7-wasm-and-wasi-on-docker/)
 
 
 
