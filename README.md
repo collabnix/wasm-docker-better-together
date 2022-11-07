@@ -1,5 +1,7 @@
 # WebAssembly and Docker - Better Together
 
+![image](https://user-images.githubusercontent.com/34368930/200236234-fcc71f84-a04d-4116-8cd6-9f03ae4f3973.png)
+
 Here is the curated list of Wasm and Docker working together:
 
 
