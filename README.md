@@ -8,7 +8,7 @@
 
 # 👉 WebAssembly and Docker - Better Together
 
-Docker Community sees Wasm as a complementary technology to Linux containers. This is where developers can choose which technology they use (or both!) depending on the use case. And as the community explores what’s possible with Wasm, the effort is to make Wasm applications easier to develop, build, and run using the experience and tools you know and love.
+[Docker Community](https://forums.docker.com) sees Wasm as a complementary technology to Linux containers. This is where developers can choose which technology they use (or both!) depending on the use case. And as the community explores what’s possible with Wasm, the effort is to make Wasm applications easier to develop, build, and run using the experience and tools you know and love.
 
 
 
