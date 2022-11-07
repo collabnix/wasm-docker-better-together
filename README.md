@@ -24,7 +24,7 @@ Docker Community sees Wasm as a complementary technology to Linux containers. Th
 
 
 
-## Tutorials
+## ✍️ Tutorials
 
 - [Getting Started with Wasm on Docker Desktop](https://docs.docker.com/desktop/wasm/)
 - [Microservices + Rust + MySQL + Wasm + Docker](https://github.com/second-state/microservice-rust-mysql)
@@ -32,7 +32,7 @@ Docker Community sees Wasm as a complementary technology to Linux containers. Th
 - [Running Wasm Workload using Docker](https://dev.to/docker/a-first-look-at-wasm-and-docker-5dg0)
 
 
-## Sample Apps
+## 🏗️ Sample Apps
 
 - [Docker image with Emscripten to compile ASM.js and WebAssembly](https://github.com/trzecieu/emscripten-docker)
 - [Proof of concept of running WASM w/ Docker](https://github.com/thiskevinwang/docker-wasm)
@@ -41,7 +41,7 @@ Docker Community sees Wasm as a complementary technology to Linux containers. Th
 - [Dockerfile to build a wasm builder environment](https://github.com/leviyanx/wasm)
 - [A Calendar suite / UI component library / function library](https://github.com/leosdibella/aciculate)
 
-# Blogs
+# 🧑‍💻  Blogs
 
 - [Introducing the Docker+Wasm Technical Preview](https://www.docker.com/blog/docker-wasm-technical-preview/)
 - [Build, Share, and Run WebAssembly Apps Using Docker](https://www.docker.com/blog/build-share-run-webassembly-apps-docker/)
