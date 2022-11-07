@@ -46,7 +46,10 @@ Source ~ https://docker.com
 - [Dockerfile to build a wasm builder environment](https://github.com/leviyanx/wasm)
 - [A Calendar suite / UI component library / function library](https://github.com/leosdibella/aciculate)
 - [A Blazor WASM Shopping List Web App with a .Net backend](https://github.com/Velociraptor45/ProjectHermes-ShoppingList)
+- [Pyodide in the bacalhau python_wasm executor](https://github.com/lukemarsden/pyodide)
 - [Crypter - An End-to-End Encrypted File and Message Transfer](https://github.com/Crypter-File-Transfer/Crypter)
+- [GitPod, Rust, Wasm and Docker Together](https://github.com/dtoebe/GitPod-Rust-Wasm-Docker)
+- [Blazor Wasm Hosted Docker](https://github.com/dotnetnoobie/BlazorWasmHostedDocker)
 
 # 🧑‍💻  Blogs
 
