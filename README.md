@@ -74,6 +74,7 @@ Source ~ https://docker.com
 - [Keynote: Wasm: A Revolution for Browsers, Containers, and the Cloud - Justin Cormack](https://www.youtube.com/watch?v=uf0Rboi0mYg)
 - [Docker and WASM - The powerful combo](https://www.youtube.com/watch?v=9JVV2qrp080&t=131s)
 - [Service Meshing with Docker Desktop & WebAssembly](https://www.youtube.com/watch?v=5BrbbKZOctw)
+- [WebAssembly, with Kelsey Hightower and Docker CEO Scott Johnston](https://www.youtube.com/watch?v=VKMURlwWIVI)
 - [Managing WebAssembly Applications Using Docker and k8s Tooling - Michael Yuan, Second State](https://www.youtube.com/watch?v=jiiuL3bsDhU)
 
 
