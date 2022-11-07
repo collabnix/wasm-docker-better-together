@@ -20,6 +20,7 @@ Here is the curated list of Wasm and Docker working together:
 - [AssemblyScript boilerplate for Docker+Wasm](https://github.com/CreoOne/EdgeIntraComm)
 - [Learning to set up a docker container which runs WASM](https://github.com/admiral-akk/rust-wasm-docker)
 - [Dockerfile to build a wasm builder environment](https://github.com/leviyanx/wasm)
+- [A Calendar suite / UI component library / function library](https://github.com/leosdibella/aciculate)
 
 # Blogs
 
