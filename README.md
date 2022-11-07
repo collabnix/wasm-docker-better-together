@@ -33,6 +33,7 @@ Source ~ https://docker.com
 - [Microservices + Rust + MySQL + Wasm + Docker](https://github.com/second-state/microservice-rust-mysql)
 - [Create a database-backed Microservice in Rust and Run it in WasmEdge](https://www.youtube.com/watch?v=VSqMPFr7SEs)
 - [Rust + Wasm + Docker Tutorial](https://github.com/artificial-lua/RustToWasmTutorial)
+- [Wasm + Go + Docker](https://github.com/flat35hd99/wasm-go-docker)
 
 
 
@@ -44,7 +45,6 @@ Source ~ https://docker.com
 - [Learning to set up a docker container which runs WASM](https://github.com/admiral-akk/rust-wasm-docker)
 - [Dockerfile to build a wasm builder environment](https://github.com/leviyanx/wasm)
 - [A Calendar suite / UI component library / function library](https://github.com/leosdibella/aciculate)
-- [Wasm + Go + Docker](https://github.com/flat35hd99/wasm-go-docker)
 - [A Blazor WASM Shopping List Web App with a .Net backend](https://github.com/Velociraptor45/ProjectHermes-ShoppingList)
 - [Crypter - An End-to-End Encrypted File and Message Transfer](https://github.com/Crypter-File-Transfer/Crypter)
 
