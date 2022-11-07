@@ -19,8 +19,7 @@ Docker Community sees Wasm as a complementary technology to Linux containers. Th
 
 
 
-# A curated list of Wasm and Docker working together
-
+# 🤲 A curated list of Wasm and Docker working together
 
 
 
