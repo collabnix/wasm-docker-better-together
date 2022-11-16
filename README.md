@@ -37,6 +37,7 @@ Source ~ https://docker.com
 - [Rust + Wasm + Docker Tutorial](https://github.com/artificial-lua/RustToWasmTutorial) 
 - [Wasm + Go + Docker](https://github.com/flat35hd99/wasm-go-docker)
 - [Wasm + .NET](https://github.com/InCerryGit/PublishDotNetToWASM) ![badge](https://img.shields.io/badge/-new-red)<br>
+- [Rust + Wasm](https://github.com/thiskevinwang/docker-wasm) ![badge](https://img.shields.io/badge/-new-red)<br>
 
 
 
