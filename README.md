@@ -36,7 +36,7 @@ Source ~ https://docker.com
 - [Create a database-backed Microservice in Rust and Run it in WasmEdge](https://www.youtube.com/watch?v=VSqMPFr7SEs)
 - [Rust + Wasm + Docker Tutorial](https://github.com/artificial-lua/RustToWasmTutorial)
 - [Wasm + Go + Docker](https://github.com/flat35hd99/wasm-go-docker)
-- [.NET + Wasm] -  https://github.com/InCerryGit/PublishDotNetToWASM] ![badge](https://img.shields.io/badge/-new-red)<br>
+- [Wasm + .NET](https://github.com/InCerryGit/PublishDotNetToWASM) ![badge](https://img.shields.io/badge/-new-red)<br>
 
 
 
