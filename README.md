@@ -36,6 +36,7 @@ Source ~ https://docker.com
 - [Create a database-backed Microservice in Rust and Run it in WasmEdge](https://www.youtube.com/watch?v=VSqMPFr7SEs)
 - [Rust + Wasm + Docker Tutorial](https://github.com/artificial-lua/RustToWasmTutorial)
 - [Wasm + Go + Docker](https://github.com/flat35hd99/wasm-go-docker)
+- [.NET + Wasm] -  https://github.com/InCerryGit/PublishDotNetToWASM] ![badge](https://img.shields.io/badge/-new-red)<br>
 
 
 
@@ -61,8 +62,8 @@ Source ~ https://docker.com
 
 - [Introducing the Docker+Wasm Technical Preview](https://www.docker.com/blog/docker-wasm-technical-preview/)
 - [Build, Share, and Run WebAssembly Apps Using Docker](https://www.docker.com/blog/build-share-run-webassembly-apps-docker/)
-- [Docker Hub and WebAssembly step 1](https://nigelpoulton.com/docker-hub-and-webassembly-step-1/)
-- [Experimenting with .NET 7, WASM, and WASI on Docker](https://laurentkempe.com/2022/10/31/experimenting-with-dotnet-7-wasm-and-wasi-on-docker/)
+- [Docker Hub and WebAssembly step 1](https://nigelpoulton.com/docker-hub-and-webassembly-step-1/) ![badge](https://img.shields.io/badge/-new-red)<br>
+- [Experimenting with .NET 7, WASM, and WASI on Docker](https://laurentkempe.com/2022/10/31/experimenting-with-dotnet-7-wasm-and-wasi-on-docker/) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [Running Wasm Workload using Docker](https://dev.to/docker/a-first-look-at-wasm-and-docker-5dg0)
 
 
@@ -71,12 +72,12 @@ Source ~ https://docker.com
 # 📹 Videos
 
 
-- [Build, Share, Run WebAssembly Apps Using the Docker Toolchain - Chris Crone & Michael Yuan](https://www.youtube.com/watch?v=3j915xoDovs)
+- [Build, Share, Run WebAssembly Apps Using the Docker Toolchain - Chris Crone & Michael Yuan](https://www.youtube.com/watch?v=3j915xoDovs) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [WebAssembly and Containers](https://www.youtube.com/watch?v=OGcm3rHg630&t=95s)
 - [Keynote: Wasm: A Revolution for Browsers, Containers, and the Cloud - Justin Cormack](https://www.youtube.com/watch?v=uf0Rboi0mYg)
 - [Docker and WASM - The powerful combo](https://www.youtube.com/watch?v=9JVV2qrp080&t=131s)
 - [Service Meshing with Docker Desktop & WebAssembly](https://www.youtube.com/watch?v=5BrbbKZOctw)
-- [WebAssembly, with Kelsey Hightower and Docker CEO Scott Johnston](https://www.youtube.com/watch?v=VKMURlwWIVI)
+- [WebAssembly, with Kelsey Hightower and Docker CEO Scott Johnston](https://www.youtube.com/watch?v=VKMURlwWIVI) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [Managing WebAssembly Applications Using Docker and k8s Tooling - Michael Yuan, Second State](https://www.youtube.com/watch?v=jiiuL3bsDhU)
 
 
