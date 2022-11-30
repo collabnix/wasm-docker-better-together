@@ -67,6 +67,7 @@ Source ~ https://docker.com
 - [Docker Hub and WebAssembly step 1](https://nigelpoulton.com/docker-hub-and-webassembly-step-1/) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [Experimenting with .NET 7, WASM, and WASI on Docker](https://laurentkempe.com/2022/10/31/experimenting-with-dotnet-7-wasm-and-wasi-on-docker/) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [Running Wasm Workload using Docker](https://dev.to/docker/a-first-look-at-wasm-and-docker-5dg0)
+- [WebAssembly: The future of cloud computing](https://nigelpoulton.com/webassembly-the-future-of-cloud-computing/)![badge](https://img.shields.io/badge/-new-red)<br>
 - [Try Wasm with Docker](https://dev.classmethod.jp/articles/wasm-docker/) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [Docker + Wasm: The Evolution Of Containerized Web Development](https://www.rahulbagal.software/docker-wasm-the-evolution-of-containerized-web-development) ![badge](https://img.shields.io/badge/-new-red) <br>
 
