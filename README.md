@@ -38,6 +38,7 @@ Source ~ https://docker.com
 - [Wasm + Go + Docker](https://github.com/flat35hd99/wasm-go-docker)
 - [Wasm + .NET](https://github.com/InCerryGit/PublishDotNetToWASM) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [Rust + Wasm](https://github.com/thiskevinwang/docker-wasm) ![badge](https://img.shields.io/badge/-new-red)<br>
+- [Kotlin + Wasm + Docker Desktop 4.15](https://github.com/hfhbd/kotlin-docker-wasm) ![badge](https://img.shields.io/badge/-new-red)<br>
 
 
 
