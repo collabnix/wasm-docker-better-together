@@ -39,6 +39,7 @@ Source ~ https://docker.com
 - [Wasm + .NET](https://github.com/InCerryGit/PublishDotNetToWASM) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [Rust + Wasm](https://github.com/thiskevinwang/docker-wasm) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [Kotlin + Wasm + Docker Desktop 4.15](https://github.com/hfhbd/kotlin-docker-wasm) ![badge](https://img.shields.io/badge/-new-red)<br>
+- [Docker + Rust + Wasm](https://github.com/talrasha007/docker-rust-wasm) ![badge](https://img.shields.io/badge/-new-red)<br>
 
 
 
@@ -61,6 +62,7 @@ Source ~ https://docker.com
 - [GitPod, Rust, Wasm and Docker Together](https://github.com/dtoebe/GitPod-Rust-Wasm-Docker)
 - [Blazor Wasm Hosted Docker](https://github.com/dotnetnoobie/BlazorWasmHostedDocker)
 - [Building the LDK Garbagesollected Bindings and WASM](https://github.com/synonymdev/ldk-garbagecollected-docker)
+- [A Docker base image for building yarn/Rust apps](https://github.com/rbtying/yarn-wasm-rust-build-image) ![badge](https://img.shields.io/badge/-new-red)<br>
 
 # 🧑‍💻  Blogs
 
