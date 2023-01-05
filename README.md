@@ -47,6 +47,7 @@ Source ~ https://docker.com
 
 - [WasmEdge Hyper Demo using Docker Desktop](https://github.com/WasmEdge/wasmedge_hyper_demo) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [Pong in Rust, Wasm and Docker - Online Multiplayer using Kafka Events](https://github.com/thilo-behnke/wasm-pong)
+- [Simple HTTP web server built in Rust compiled to WebAssembly and hosted using Docker](https://github.com/nslebruh/wasm-docker-test)![badge](https://img.shields.io/badge/-new-red)<br>
 - [Valist - Web3-native software distribution](https://github.com/valist-io/valist)
 - [Docker + Wasm + Sqlite](https://github.com/modster/docker-sqlite-wasm)  ![badge](https://img.shields.io/badge/-new-red)<br>
 - [Docker image with Emscripten to compile ASM.js and WebAssembly](https://github.com/trzecieu/emscripten-docker)
