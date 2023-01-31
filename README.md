@@ -67,6 +67,7 @@ Source ~ https://docker.com
 
 # 🧑‍💻  Blogs
 
+- [Adding Python support to Wasm Language Runtimes](https://wasmlabs.dev/articles/python-wasm32-wasi/)![badge](https://img.shields.io/badge/-new-red)
 - [Introducing the Docker+Wasm Technical Preview](https://www.docker.com/blog/docker-wasm-technical-preview/)
 - [Build, Share, and Run WebAssembly Apps Using Docker](https://www.docker.com/blog/build-share-run-webassembly-apps-docker/)
 - [Docker Hub and WebAssembly step 1](https://nigelpoulton.com/docker-hub-and-webassembly-step-1/) ![badge](https://img.shields.io/badge/-new-red)<br>
