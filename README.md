@@ -35,20 +35,6 @@ Source ~ https://docker.com
 
 
 
-## ✍️ Tutorials
-
-- [Getting Started with Wasm on Docker Desktop](https://docs.docker.com/desktop/wasm/)
-- [Microservices + Rust + MySQL + Wasm + Docker](https://github.com/second-state/microservice-rust-mysql) ![badge](https://img.shields.io/badge/-new-red)<br>
-- [Create a database-backed Microservice in Rust and Run it in WasmEdge](https://www.youtube.com/watch?v=VSqMPFr7SEs)
-- [Rust + Wasm + Docker Tutorial](https://github.com/artificial-lua/RustToWasmTutorial) 
-- [Wasm + Go + Docker](https://github.com/flat35hd99/wasm-go-docker)
-- [Wasm + .NET](https://github.com/InCerryGit/PublishDotNetToWASM) ![badge](https://img.shields.io/badge/-new-red)<br>
-- [Rust + Wasm](https://github.com/thiskevinwang/docker-wasm) ![badge](https://img.shields.io/badge/-new-red)<br>
-- [Kotlin + Wasm + Docker Desktop 4.15](https://github.com/hfhbd/kotlin-docker-wasm) ![badge](https://img.shields.io/badge/-new-red)<br>
-- [Docker + Rust + Wasm](https://github.com/talrasha007/docker-rust-wasm) ![badge](https://img.shields.io/badge/-new-red)<br>
-
-
-
 ## 🏗️ Sample Apps
 
 - [WasmEdge Hyper Demo using Docker Desktop](https://github.com/WasmEdge/wasmedge_hyper_demo) ![badge](https://img.shields.io/badge/-new-red)<br>
@@ -84,6 +70,17 @@ Source ~ https://docker.com
 - [Docker + Wasm: The Evolution Of Containerized Web Development](https://www.rahulbagal.software/docker-wasm-the-evolution-of-containerized-web-development) ![badge](https://img.shields.io/badge/-new-red) <br>
 
 
+## ✍️ Tutorials
+
+- [Getting Started with Wasm on Docker Desktop](https://docs.docker.com/desktop/wasm/)
+- [Microservices + Rust + MySQL + Wasm + Docker](https://github.com/second-state/microservice-rust-mysql) ![badge](https://img.shields.io/badge/-new-red)<br>
+- [Create a database-backed Microservice in Rust and Run it in WasmEdge](https://www.youtube.com/watch?v=VSqMPFr7SEs)
+- [Rust + Wasm + Docker Tutorial](https://github.com/artificial-lua/RustToWasmTutorial) 
+- [Wasm + Go + Docker](https://github.com/flat35hd99/wasm-go-docker)
+- [Wasm + .NET](https://github.com/InCerryGit/PublishDotNetToWASM) ![badge](https://img.shields.io/badge/-new-red)<br>
+- [Rust + Wasm](https://github.com/thiskevinwang/docker-wasm) ![badge](https://img.shields.io/badge/-new-red)<br>
+- [Kotlin + Wasm + Docker Desktop 4.15](https://github.com/hfhbd/kotlin-docker-wasm) ![badge](https://img.shields.io/badge/-new-red)<br>
+- [Docker + Rust + Wasm](https://github.com/talrasha007/docker-rust-wasm) ![badge](https://img.shields.io/badge/-new-red)<br>
 
 
 # 📹 Videos
