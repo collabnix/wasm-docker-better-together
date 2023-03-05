@@ -94,6 +94,10 @@ Source ~ https://docker.com
 - [WebAssembly, with Kelsey Hightower and Docker CEO Scott Johnston](https://www.youtube.com/watch?v=VKMURlwWIVI) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [Managing WebAssembly Applications Using Docker and k8s Tooling - Michael Yuan, Second State](https://www.youtube.com/watch?v=jiiuL3bsDhU)
 
+# 👉 Events
+
+- [WASM I/O 2023 - 23-24 MARCH | BARCELONA](https://wasmio.tech)
+
 
 # 💬 Support and Community
 
