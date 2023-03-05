@@ -96,8 +96,8 @@ Source ~ https://docker.com
 
 # 👉 Events
 
-- [WASM I/O 2023 - 23-24 MARCH | BARCELONA](https://wasmio.tech)
-- [Docker and Wasm Meetup](https://www.meetup.com/es-ES/docker-barcelona-spain/events/291983473/)
+- [WASM I/O 2023 - 23-24 March | Barcelona](https://wasmio.tech)
+- [Docker and Wasm Meetup - 22 March](https://www.meetup.com/es-ES/docker-barcelona-spain/events/291983473/)
 
 
 # 💬 Support and Community
