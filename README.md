@@ -53,6 +53,7 @@ Source ~ https://docker.com
 - [Pyodide in the bacalhau python_wasm executor](https://github.com/lukemarsden/pyodide)
 - [Crypter - An End-to-End Encrypted File and Message Transfer](https://github.com/Crypter-File-Transfer/Crypter)
 - [GitPod, Rust, Wasm and Docker Together](https://github.com/dtoebe/GitPod-Rust-Wasm-Docker)
+- [C, Wasm and Docker](https://github.com/kingso/docker-wasm)
 - [Blazor Wasm Hosted Docker](https://github.com/dotnetnoobie/BlazorWasmHostedDocker)
 - [Building the LDK Garbagesollected Bindings and WASM](https://github.com/synonymdev/ldk-garbagecollected-docker)
 - [A Docker base image for building yarn/Rust apps](https://github.com/rbtying/yarn-wasm-rust-build-image) ![badge](https://img.shields.io/badge/-new-red)<br>
