@@ -56,6 +56,7 @@ Source ~ https://docker.com
 - [Blazor Wasm Hosted Docker](https://github.com/dotnetnoobie/BlazorWasmHostedDocker)
 - [Building the LDK Garbagesollected Bindings and WASM](https://github.com/synonymdev/ldk-garbagecollected-docker)
 - [A Docker base image for building yarn/Rust apps](https://github.com/rbtying/yarn-wasm-rust-build-image) ![badge](https://img.shields.io/badge/-new-red)<br>
+- [Rick And Morty Wiki Blazor App - .NET + GraphQL + Wasm + Docker](https://github.com/The-Katsu/RickAndMortyWiki)
 
 # 🧑‍💻  Blogs
 
