@@ -37,6 +37,7 @@ Source ~ https://docker.com
 
 ## 🏗️ Sample Apps
 
+- [container2wasm: Container to WASM converter](https://github.com/ktock/container2wasm) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [WasmEdge Hyper Demo using Docker Desktop](https://github.com/WasmEdge/wasmedge_hyper_demo) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [Pong in Rust, Wasm and Docker - Online Multiplayer using Kafka Events](https://github.com/thilo-behnke/wasm-pong)
 - [Simple HTTP web server built in Rust compiled to WebAssembly and hosted using Docker](https://github.com/nslebruh/wasm-docker-test)![badge](https://img.shields.io/badge/-new-red)<br>
