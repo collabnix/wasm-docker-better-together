@@ -91,6 +91,7 @@ Source ~ https://docker.com
 # 📹 Videos
 
 
+- [Web Assembly (WASM) in 100 Seconds](https://www.youtube.com/watch?v=cbB3QEwWMlA)
 - [Build, Share, Run WebAssembly Apps Using the Docker Toolchain - Chris Crone & Michael Yuan](https://www.youtube.com/watch?v=3j915xoDovs) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [WebAssembly and Containers](https://www.youtube.com/watch?v=OGcm3rHg630&t=95s)
 - [Keynote: Wasm: A Revolution for Browsers, Containers, and the Cloud - Justin Cormack](https://www.youtube.com/watch?v=uf0Rboi0mYg)
@@ -98,6 +99,7 @@ Source ~ https://docker.com
 - [Service Meshing with Docker Desktop & WebAssembly](https://www.youtube.com/watch?v=5BrbbKZOctw)
 - [WebAssembly, with Kelsey Hightower and Docker CEO Scott Johnston](https://www.youtube.com/watch?v=VKMURlwWIVI) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [Managing WebAssembly Applications Using Docker and k8s Tooling - Michael Yuan, Second State](https://www.youtube.com/watch?v=jiiuL3bsDhU)
+- [What is WebAssembly? | WASM Explained by Experts in 2 Minutes](https://www.youtube.com/watch?v=-DVcchn4T_Y)
 
 # 👉 Events
 
