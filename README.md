@@ -76,6 +76,7 @@ Source ~ https://docker.com
 
 ## ✍️ Tutorials
 
+- [Announcing Docker+Wasm Technical Preview 2](https://www.docker.com/blog/announcing-dockerwasm-technical-preview-2/)
 - [Getting Started with Wasm on Docker Desktop](https://docs.docker.com/desktop/wasm/)
 - [Microservices + Rust + MySQL + Wasm + Docker](https://github.com/second-state/microservice-rust-mysql) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [Create a database-backed Microservice in Rust and Run it in WasmEdge](https://www.youtube.com/watch?v=VSqMPFr7SEs)
