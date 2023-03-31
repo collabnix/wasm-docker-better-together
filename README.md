@@ -8,7 +8,7 @@
 <h2 align="center">
 🎤 Ask us anything! 🐳<br><br>
 
-<a href="../../issues/new">:speech_balloon: Add Your Project</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">:book: Recently Added</a>
+<a href="../../issues/new">:speech_balloon: Add Your Project</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">:book: Recently Added</a>
 </h2>
 
 
