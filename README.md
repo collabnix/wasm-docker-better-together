@@ -37,6 +37,7 @@ Source ~ https://docker.com
 
 ## 🏗️ Sample Apps
 
+- [Doom + Docker Desktop](https://github.com/collabnix/doom-wasm-docker) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [container2wasm: Container to WASM converter](https://github.com/ktock/container2wasm) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [WasmEdge Hyper Demo using Docker Desktop](https://github.com/WasmEdge/wasmedge_hyper_demo) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [Pong in Rust, Wasm and Docker - Online Multiplayer using Kafka Events](https://github.com/thilo-behnke/wasm-pong)
