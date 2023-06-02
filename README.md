@@ -92,6 +92,7 @@ Source ~ https://docker.com
 # 📹 Videos
 
 
+- [Wasm I/O Barcelona 2023](https://www.youtube.com/playlist?list=PLP3xGl7Eb-4NtSX-wzOxUCjPsBcw2zrPA)
 - [Web Assembly (WASM) in 100 Seconds](https://www.youtube.com/watch?v=cbB3QEwWMlA)
 - [Build, Share, Run WebAssembly Apps Using the Docker Toolchain - Chris Crone & Michael Yuan](https://www.youtube.com/watch?v=3j915xoDovs) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [WebAssembly and Containers](https://www.youtube.com/watch?v=OGcm3rHg630&t=95s)
