@@ -2,7 +2,7 @@
 ![forks](https://img.shields.io/github/forks/collabnix/wasm-docker-better-together)
 ![Discord](https://img.shields.io/discord/1020180904129335379)
 ![issues](https://img.shields.io/github/issues/collabnix/wasm-docker-better-together)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=collabnix.wasm-docker-better-together)
+
 ![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
 
 <h2 align="center">
